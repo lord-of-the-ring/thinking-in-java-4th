@@ -1,4 +1,4 @@
-package preview;
+package exercises;
 import preview2.Exercise5_P174.*;
 public class Exercise5_P174
 {

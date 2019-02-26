@@ -1,4 +1,4 @@
-package preview.Exercise16_P183;
+package exercises.Exercise16_P183;
 
 import java.util.Random;
 

@@ -1,4 +1,4 @@
-package preview;
+package exercises;
 
 public class Exercise10_P174
 {

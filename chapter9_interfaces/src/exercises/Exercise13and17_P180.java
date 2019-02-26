@@ -1,4 +1,4 @@
-package preview;
+package exercises;
 
 public class Exercise13and17_P180
 {

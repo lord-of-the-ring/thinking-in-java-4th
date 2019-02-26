@@ -1,5 +1,6 @@
-package preview;
-import preview.P177_Interfacepro_Apply.*;
+package exercises;
+import preview.P177_Interfacepro_Apply;
+//import preview.P177_Interfacepro_Apply.*;
 public class Exercise11_P178
 {
     static class Test11{//如果用它直接implement就是不含委托模式
@@ -18,7 +19,7 @@ public class Exercise11_P178
             return String.valueOf(cha);
         };
     }
-    static class Test11_Adapter implements P177_Interfacepro_Apply.Processor{//借鸡生蛋，适配器模式
+    static class Test11_Adapter implements P177_Interfacepro_Apply.Processor {//借鸡生蛋，适配器模式
         private Test11 test11;//其他接口的一个对象，委托模式
         Test11_Adapter(Test11 test11){
             this.test11 = test11;

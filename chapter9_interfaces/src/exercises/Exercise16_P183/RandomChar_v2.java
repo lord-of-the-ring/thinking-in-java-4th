@@ -1,4 +1,4 @@
-package preview.Exercise16_P183;
+package exercises.Exercise16_P183;
 
 public class RandomChar_v2 {
     private char getChar(char cha1, char cha2){
