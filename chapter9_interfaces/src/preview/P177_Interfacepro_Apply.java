@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class P177_Interfacepro_Apply
 {
-    static interface Processor{
+    public static interface Processor{// 2019/02/26，我把exercise11挎包转移了
         String name();
         Object process(Object input);
     }
